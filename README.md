@@ -51,11 +51,11 @@ The solution follows the **Dispatcher / Performer / Reporter** pattern using UiP
 ## Architecture
 
 ```
-┌────────────────┐     ┌─────────────────────┐     ┌──────────────────┐
-│  Dispatcher    │────▶│ PurchaseRequestsQueue│────▶│    Performer     │
-│ (read, filter, │     │   (Orchestrator)     │     │ (SauceDemo, API, │
-│  sort, upload) │     └─────────────────────┘     │  checkout)       │
-└────────────────┘                                  └────────┬─────────┘
+┌────────────────┐     ┌─────────────────────┐      ┌─────────────────┐
+│  Dispatcher    │───▶│ PurchaseRequestsQueue│───▶ │    Performer    │
+│ (read, filter, │     │   (Orchestrator)    │      │ (SauceDemo, API,│
+│  sort, upload) │     └─────────────────────┘      │  checkout)      │
+└────────────────┘                                  └────────┬────────┘
                                                              │
                                                              ▼
                                                   ┌──────────────────┐
