@@ -1,0 +1,25 @@
+{
+  "version": "2.0",
+  "resources": [
+    {
+      "activityDisplayName": "Send Result Report Email to Procurement Operations",
+      "activityId": "SendMail_4",
+      "resource": "Connection",
+      "key": "c8a52cbe-e283-42c3-933d-9f981825786c",
+      "id": "Connectionc8a52cbe-e283-42c3-933d-9f981825786cc8a52cbe-e283-42c3-933d-9f981825786cFalse",
+      "value": {
+        "ConnectionId": {
+          "defaultValue": "c8a52cbe-e283-42c3-933d-9f981825786c",
+          "isExpression": false,
+          "displayName": "Connection",
+          "description": "The connection to be used"
+        }
+      },
+      "metadata": {
+        "BindingsVersion": "2.2",
+        "UseConnectionService": "True",
+        "Connector": "uipath-mail-mail"
+      }
+    }
+  ]
+}

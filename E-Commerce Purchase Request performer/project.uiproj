@@ -1,0 +1,6 @@
+{
+  "Name": "E-Commerce Purchase Request performer",
+  "ProjectType": "Process",
+  "Description": "Robotic Enterprise Framework",
+  "MainFile": "Main.xaml"
+}

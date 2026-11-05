@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lYYryvwclEi2Br84XzHCIA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="saucedemo.com/cart.html" DesignTimeRectangle="321, 363, 1280, 154" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='cart_item' parentid='cart_contents_container' tag='DIV' /&gt;" Guid="284a6ef8-65b1-4093-ab7b-a94fd4c69e12" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Swag Labs' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="224ec12558b2de2f5cab16f6462daaf5.jpg" xmlns="">0AGXZctmFZ0-5vNPx5Tv47w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

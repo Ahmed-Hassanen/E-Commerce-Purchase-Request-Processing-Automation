@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="AP_FJVX9_ESfZ7Gut1lvXQ" Reference="PlzbJ4Xdrk2AnSB2fYUAsQ/hl58nVPkdUqa6riyyNWZYw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="saucedemo.com/cart.html" DesignTimeRectangle="1427, 426, 160, 34" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='*' tag='BUTTON' idx='3' /&gt;" Guid="6f3966ae-957b-43c2-baf3-6ef1c5fc4c68" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Swag Labs' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8e971e02186d7066cf3b4cc87b6adce3.jpg" xmlns="">07OsPpLIWlEOxeHV__eG4Qg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

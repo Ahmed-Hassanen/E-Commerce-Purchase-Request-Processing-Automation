@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Products List",
+  "Type": "Screen",
+  "Id": "r5zUB2Yje0-xV-YZTdhL-w",
+  "Reference": "PlzbJ4Xdrk2AnSB2fYUAsQ/r5zUB2Yje0-xV-YZTdhL-w",
+  "ParentRef": "PlzbJ4Xdrk2AnSB2fYUAsQ/md6DH57VpU6xTkWqKfHpBg",
+  "Created": "2026-10-23T22:08:36.8890575Z",
+  "Updated": "2026-10-23T22:08:36.8890575Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'Login'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "sQTy6odCjk-f3fvkh7auLw",
+  "Reference": "PlzbJ4Xdrk2AnSB2fYUAsQ/sQTy6odCjk-f3fvkh7auLw",
+  "ParentRef": "PlzbJ4Xdrk2AnSB2fYUAsQ/piw-dmUcH06YH2RPnlbnNA",
+  "Created": "2026-10-23T21:16:56.7996801Z",
+  "Updated": "2026-10-23T21:16:56.7996801Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

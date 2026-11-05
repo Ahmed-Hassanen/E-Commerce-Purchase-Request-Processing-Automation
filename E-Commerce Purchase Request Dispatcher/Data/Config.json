@@ -1,0 +1,22 @@
+﻿{
+  "Settings": {
+    "logF_BusinessProcessName": "E-Commerce Purchase Request",
+	  "OrchestratorQueueName":"PurchaseRequestsQueue",
+	  "OrchestratorQueueFolder":"E-Commerce Purchase",
+	  "Purchase_Requests_Path":"Data\\Input\\PurchaseRequests.xlsx"
+  },
+  "Constants": {
+    "MaxRetryNumber": 1,
+    "MaxConsecutiveSystemExceptions": 0,
+    "ExScreenshotsFolderPath": "Exceptions_Screenshots",
+    "LogMessage_GetTransactionData": "Processing Transaction Number: ",
+    "LogMessage_GetTransactionDataError": "Error getting transaction data for Transaction Number: ",
+    "LogMessage_Success": "Transaction Successful.",
+    "LogMessage_BusinessRuleException": "Business rule exception.",
+    "LogMessage_ApplicationException": "System exception.",
+    "ExceptionMessage_ConsecutiveErrors": "The maximum number of consecutive system exceptions was reached. ",
+    "RetryNumberGetTransactionItem": 2,
+    "RetryNumberSetTransactionStatus": 2,
+    "ShouldMarkJobAsFaulted": false
+  }
+}

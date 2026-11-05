@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Your order has been dis…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "2MGQU8dwzEajCG0Sw0wZTQ",
+  "Reference": "PlzbJ4Xdrk2AnSB2fYUAsQ/2MGQU8dwzEajCG0Sw0wZTQ",
+  "ParentRef": "PlzbJ4Xdrk2AnSB2fYUAsQ/kyac3TCHZESKJIgTfejU8A",
+  "Created": "2026-10-24T10:56:50.2435108Z",
+  "Updated": "2026-10-24T10:56:50.2435108Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

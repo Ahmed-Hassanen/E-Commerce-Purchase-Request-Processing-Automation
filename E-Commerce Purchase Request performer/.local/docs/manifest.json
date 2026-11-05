@@ -1,0 +1,6 @@
+{
+  "UiPath.Excel.Activities": "3.5.1",
+  "UiPath.Mail.Activities": "2.12.10",
+  "UiPath.MicrosoftOffice365.Activities": "3.12.10",
+  "UiPath.WebAPI.Activities": "2.5.2"
+}

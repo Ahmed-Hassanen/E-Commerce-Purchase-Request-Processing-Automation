@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Total $32.39",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "PjooneoHGECyVBJTuu5u6g",
+  "Reference": "PlzbJ4Xdrk2AnSB2fYUAsQ/PjooneoHGECyVBJTuu5u6g",
+  "ParentRef": "PlzbJ4Xdrk2AnSB2fYUAsQ/kyac3TCHZESKJIgTfejU8A",
+  "Created": "2026-10-25T13:49:46.0220246Z",
+  "Updated": "2026-10-25T13:49:46.0220246Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

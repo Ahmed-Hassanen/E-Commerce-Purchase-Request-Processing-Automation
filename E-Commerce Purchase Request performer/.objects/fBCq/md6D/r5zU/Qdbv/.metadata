@@ -1,0 +1,13 @@
+﻿{
+  "Name": "QTYDescription1Sauce La…",
+  "Type": "Element",
+  "Id": "QdbvI458xkyDcD8NH-zj8Q",
+  "Reference": "PlzbJ4Xdrk2AnSB2fYUAsQ/QdbvI458xkyDcD8NH-zj8Q",
+  "ParentRef": "PlzbJ4Xdrk2AnSB2fYUAsQ/r5zUB2Yje0-xV-YZTdhL-w",
+  "Created": "2026-10-24T22:37:01.7113949Z",
+  "Updated": "2026-10-24T22:37:01.7113949Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

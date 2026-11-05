@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Back Home",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "9tdVHF2Vl0almb-eqToMTQ",
+  "Reference": "PlzbJ4Xdrk2AnSB2fYUAsQ/9tdVHF2Vl0almb-eqToMTQ",
+  "ParentRef": "PlzbJ4Xdrk2AnSB2fYUAsQ/kyac3TCHZESKJIgTfejU8A",
+  "Created": "2026-10-23T22:46:01.8050161Z",
+  "Updated": "2026-10-23T22:46:01.8050161Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

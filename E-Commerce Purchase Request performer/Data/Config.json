@@ -1,0 +1,29 @@
+﻿{
+  "Settings": {
+    "logF_BusinessProcessName": "E-Commerce Purchase Request",
+	  "OrchestratorQueueName":"PurchaseRequestsQueue",
+	  "OrchestratorQueueFolder":"E-Commerce Purchase",
+	  "SauceDemo_test_credentials":"SauceDemo_test_credentials",
+	  "Email_Sender_Credentials":"Email_Sender_Credentials"
+  },
+  "Constants": {
+    "MaxRetryNumber": 0,
+    "MaxConsecutiveSystemExceptions": 0,
+    "ExScreenshotsFolderPath": "Exceptions_Screenshots",
+    "LogMessage_GetTransactionData": "Processing Transaction Number: ",
+    "LogMessage_GetTransactionDataError": "Error getting transaction data for Transaction Number: ",
+    "LogMessage_Success": "Transaction Successful.",
+    "LogMessage_BusinessRuleException": "Business rule exception.",
+    "LogMessage_ApplicationException": "System exception.",
+    "ExceptionMessage_ConsecutiveErrors": "The maximum number of consecutive system exceptions was reached. ",
+    "RetryNumberGetTransactionItem": 2,
+    "RetryNumberSetTransactionStatus": 2,
+    "ShouldMarkJobAsFaulted": false
+  },
+    "Assets": {
+	  "Procurement_Operations_Mailbox":"Procurement_Operations_Mailbox",
+	  "Result_Report_Path":"Result_Report_Path",
+	  "Report_Template_Path":"Report_Template_Path",
+	  "Currency_exchang_rates_API":"Currency_exchang_rates_API"	
+	}
+}
